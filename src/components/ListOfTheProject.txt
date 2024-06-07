@@ -1,0 +1,5 @@
+ we create the app.
+ we install all the packages that we will use.
+ common style in the index file.
+ create all component(Nav,Home,Movies , tvShows,About ,Network, Details, people ,register,login,Master Lay Out,Not Found Page).
+ 

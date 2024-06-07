@@ -1,0 +1,14 @@
+@import'../../index.scss';
+
+.bordery {
+    border: $borderHeight $borderColor solid;
+}
+
+.secondFont {
+    color: $secondFontColor;
+}
+
+.My_badge {
+    right: 0;
+    top: 0;
+}
